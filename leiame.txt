@@ -6,3 +6,6 @@ Esta linha foi adicionado posteriormente, via nano
 Abaixo, adicionado durante a criação do branch 2
 Obs.: repo_estudo >> branch 1 (master)
       repo_estudo2 >> branch 2
+
+Desta forma, se adiciona novo conteúdo sem influenciar
+o master branch (galho principal)
