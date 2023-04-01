@@ -1,1 +1,1 @@
-Este texto foi criado via terminal para estudo
+Esta linha foi escrita pelo terminal
