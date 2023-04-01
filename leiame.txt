@@ -2,6 +2,7 @@ Esta linha foi escrita pelo terminal
 
 Esta linha foi adicionado posteriormente, via nano
 
+<<<<<<< HEAD
 
 Abaixo, adicionado durante a criação do branch 2
 Obs.: repo_estudo >> branch 1 (master)
@@ -9,3 +10,6 @@ Obs.: repo_estudo >> branch 1 (master)
 
 Desta forma, se adiciona novo conteúdo sem influenciar
 o master branch (galho principal)
+=======
+Esta adicionada para o merge do repo_estudo2
+>>>>>>> master
