@@ -1,5 +1,5 @@
 Esta linha foi escrita pelo terminal
-
 Esta linha foi adicionado posteriormente, via nano
-
 Esta adicionada para o merge do repo_estudo2
+4º Linha
+5º Linha
